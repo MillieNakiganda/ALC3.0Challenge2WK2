@@ -1,0 +1,9 @@
+{
+  "name": "FizzbussYarn",
+  "version": "1.0.0",
+  "main": "fizzbuzz.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
