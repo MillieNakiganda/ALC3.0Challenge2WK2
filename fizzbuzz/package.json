@@ -1,5 +1,5 @@
 {
-  "name": "FizzbussYarn",
+  "name": "fizzbuzz",
   "version": "1.0.0",
   "main": "fizzbuzz.js",
   "license": "MIT",
