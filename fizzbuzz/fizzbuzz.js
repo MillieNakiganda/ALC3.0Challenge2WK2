@@ -19,4 +19,8 @@ function fizzBuzz(list1, list2) {
     }
 }
 
+console.log (fizzBuzz([1, 2, 3], [ ]));
+console.log(fizzBuzz([1, 2, 3], [1, 2]));
+console.log(fizzBuzz([1, 2, 3], [1]));
+
 module.exports = fizzBuzz;
