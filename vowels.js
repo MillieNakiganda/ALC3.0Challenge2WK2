@@ -29,8 +29,8 @@ function returnvowels(names){
      }
 
 occurrences.push(counter);
-//alert([].concat(result.join(""),occurrences));
+
 return ([].concat(result.join(""),occurrences));
 }
 
-alert (returnvowels("dahdah"));
+console.log (returnvowels("dahdah"));
